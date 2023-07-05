@@ -8,6 +8,10 @@
     scroll-behavior: smooth;
 }
 
+body {
+    overflow-x: hidden;
+}
+
 :root {
     --main-color: #333;
     --second-color: rgb(83, 74, 58);

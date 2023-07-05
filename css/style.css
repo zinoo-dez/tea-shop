@@ -293,7 +293,7 @@ nav {
         background: #666;
         padding: 25px 100px;
         transition: .5s;
-        transform: translateX(100%);
+        transform: translateX(-100%);
     }
 
     .show {
